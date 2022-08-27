@@ -2,6 +2,8 @@
 
 Second solo Challenge of the React course on scrimba. [Scrimba learn React](https://scrimba.com/learn/learnreact)
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/afe02db6-3443-43fd-ae60-cf6d96fb1b2d/deploy-status)](https://app.netlify.com/sites/travel-journal-scrimba-saly/deploys)
+
 [Figma Design](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=2%3A2)
 
 ## Getting Started with Create React App
