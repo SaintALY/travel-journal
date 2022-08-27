@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Travel Journal
+
+Second solo Challenge of the React course on scrimba. [Scrimba learn React](https://scrimba.com/learn/learnreact)
+
+[Figma Design](https://www.figma.com/file/QG4cOExkdbIbhSfWJhs2gs/Travel-Journal?node-id=2%3A2)
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
