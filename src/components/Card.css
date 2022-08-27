@@ -1,0 +1,88 @@
+.card {
+    width: 480px;
+    display: flex;
+    border-color: #000;
+    border-width: 1px;
+    padding: 18px 40px;
+}
+
+.card--hero {
+    width: 125px;
+    height: 168px;
+}
+
+.card--img {
+    width: 125px;
+    height: 168px;
+    border-radius: 5px;
+}
+
+.card--content {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding-left: 1rem;
+}
+
+.card--dash {
+    
+}
+
+.card--marker {
+    width: 7px;
+    height: 10px;
+    padding-right: 0.5rem;
+}
+
+.card--location {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    letter-spacing: 0.17em;
+
+    color: #2B283A;
+}
+
+.card--google {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 12px;
+    /* identical to box height */
+
+    text-decoration-line: underline;
+    color: #918E9B;
+}
+
+h1 {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 30px;
+
+    color: #2B283A;
+}
+
+.card--date {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 10.24px;
+    line-height: 12px;
+    color: #2B283A;
+}
+
+p {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 10.24px;
+    line-height: 150%;
+    /* or 15px */
+    color: #2B283A;
+    text-align: left;
+}

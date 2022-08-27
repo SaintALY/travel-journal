@@ -1,10 +1,13 @@
 import React from "react"
+import "./Navigation.css"
+import globe from "../images/globe.png"
 
 function Navbar() {
     return (
-        <nav>
-            I am the navbar
-        </nav>
+        <header>
+            <img src={globe} alt="" className="navbar--globe" />
+            <span className="navbar--text">my travel journal</span>
+        </header>
     )
 }
 
